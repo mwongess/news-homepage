@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import  NewsHomepage from './components/NewsHomepage.vue';
+
 </script>
 
 <template>
@@ -7,6 +9,7 @@
   </header>
 
   <main>
+    <NewsHomepage/>
   </main>
 </template>
 
