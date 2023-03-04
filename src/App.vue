@@ -8,7 +8,7 @@ import  NewsHomepage from './components/NewsHomepage.vue';
    
   </header>
 
-  <main>
+  <main class="flex justify-center items-center h-screen">
     <NewsHomepage/>
   </main>
 </template>
